@@ -4,7 +4,7 @@
 [![Rust: 2021](https://img.shields.io/badge/Rust-2021%20Edition-orange.svg)](https://www.rust-lang.org/)
 [![CUDA: sm__86](https://img.shields.io/badge/CUDA-Ampere%20sm__86-green.svg)](https://developer.nvidia.com/cuda-toolkit)
 [![SMT: Z3 Verified](https://img.shields.io/badge/SMT-Microsoft%20Z3%205.1-purple.svg)](https://github.com/Z3Prover/z3)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23169437-blue)](https://doi.org/10.5281/zenodo.23169437)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23241272-blue.svg)](https://doi.org/10.5281/zenodo.23241272)
 
 Official source code, verification scripts, and empirical silicon telemetry for the scientific monograph:
 > **"Computación Paraconsistente en Silicio, Análisis Armónico de la Barrera OGP y Termodinámica de la Complejidad"**  
@@ -95,7 +95,7 @@ The script will deterministically:
   author={Benavides Sanchez, Maycol Jhonatan},
   journal={Zenodo Monograph},
   year={2026},
-  doi={10.5281/zenodo.23169437}
+  doi={10.5281/zenodo.23241272}
 }
 
 ---
